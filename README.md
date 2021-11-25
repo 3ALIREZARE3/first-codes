@@ -1,2 +1,5 @@
 # first-codes
-These are my first codes that I wrote during the courses.
+
+In this repository I'm going to archive my first codes during the learning process.
+
+* python
